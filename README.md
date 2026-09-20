@@ -62,16 +62,3 @@ Visualizations provide insights into COVID-19 cases and GDP trends across contin
 Created a new feature total_deaths_to_total_cases for understanding the death rate per continent.
 
 
----
-
-✅ **How to use:**  
-1. Open a text editor or VSCode.  
-2. Create a new file called `README.md`.  
-3. Paste everything above.  
-4. Save and upload to your GitHub repo.  
-
----
-
-If you want, I can also **add GitHub badges, a small description for each visualization, and make it look like a “professional project repo README”** that looks very polished on GitHub.  
-
-Do you want me to do that next?
